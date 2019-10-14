@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const getRooms = state => state.rooms;","map":{"version":3,"sources":["C:/projects/assessment-2/redux/modules/rooms/rooms.selectors.js"],"names":["getRooms","state","rooms"],"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAGC,KAAK,IAAIA,KAAK,CAACC,KAAhC","sourcesContent":["export const getRooms = state => state.rooms\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,26 @@
+[
+    {
+        "adultOccupancy": [ 1, 2 ],
+        "childOccupancy": [ 0, 1, 2 ],
+        "isDefaultSelection": true,
+        "roomNumber": 1
+    },
+    {
+        "adultOccupancy": [ 1, 2 ],
+        "childOccupancy": [ 0, 1, 2 ],
+        "isDefaultSelection": false,
+        "roomNumber": 2
+    },
+    {
+        "adultOccupancy": [ 1, 2 ],
+        "childOccupancy": [ 0, 1, 2 ],
+        "isDefaultSelection": false,
+        "roomNumber": 3
+    },
+    {
+        "adultOccupancy": [ 1, 2 ],
+        "childOccupancy": [ 0, 1, 2 ],
+        "isDefaultSelection": false,
+        "roomNumber": 4
+    }
+]
